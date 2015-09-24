@@ -1,0 +1,22 @@
+﻿<Window x:Class="PATHEditor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PATHEditor"
+        mc:Ignorable="d"
+        Title="PATH Editor" Height="400" Width="525">
+    <Grid>
+        <ListBox x:Name="valuesList" HorizontalAlignment="Left" Height="264" Margin="10,10,0,0" VerticalAlignment="Top" Width="392">
+        </ListBox>
+        <Button x:Name="writeButton" Content="Write to PATH" HorizontalAlignment="Left" Margin="407,10,0,0" VerticalAlignment="Top" Width="100"/>
+        <TextBox x:Name="valueTextBox" HorizontalAlignment="Left" Height="24" Margin="10,293,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="497"/>
+        <Button x:Name="updateButton" Content="Update List" HorizontalAlignment="Left" Margin="407,35,0,0" VerticalAlignment="Top" Width="100"/>
+        <Button x:Name="addValue" Content="Add Value" HorizontalAlignment="Left" Margin="407,71,0,0" VerticalAlignment="Top" Width="100"/>
+        <Button x:Name="removeValue" Content="Remove Value" HorizontalAlignment="Left" Margin="407,96,0,0" VerticalAlignment="Top" Width="100"/>
+        <TextBox x:Name="fullValueTextBox" HorizontalAlignment="Left" Height="24" Margin="10,335,0,0" Text="" VerticalAlignment="Top" Width="497" AllowDrop="False" IsReadOnly="True"/>
+        <Label Content="Current value editing" HorizontalAlignment="Left" Margin="10,271,0,0" VerticalAlignment="Top"/>
+        <Label Content="Full PATH value" HorizontalAlignment="Left" Margin="10,314,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

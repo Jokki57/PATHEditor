@@ -1,0 +1,14 @@
+c:\users\jokki\documents\visual studio 2015\Projects\PATHEditor\PATHEditor\bin\Debug\PATHEditor.exe.config
+c:\users\jokki\documents\visual studio 2015\Projects\PATHEditor\PATHEditor\bin\Debug\PATHEditor.exe
+c:\users\jokki\documents\visual studio 2015\Projects\PATHEditor\PATHEditor\bin\Debug\PATHEditor.pdb
+c:\users\jokki\documents\visual studio 2015\Projects\PATHEditor\PATHEditor\obj\Debug\PATHEditor.csprojResolveAssemblyReference.cache
+c:\users\jokki\documents\visual studio 2015\Projects\PATHEditor\PATHEditor\obj\Debug\MainWindow.g.cs
+c:\users\jokki\documents\visual studio 2015\Projects\PATHEditor\PATHEditor\obj\Debug\App.g.cs
+c:\users\jokki\documents\visual studio 2015\Projects\PATHEditor\PATHEditor\obj\Debug\PATHEditor_MarkupCompile.cache
+c:\users\jokki\documents\visual studio 2015\Projects\PATHEditor\PATHEditor\obj\Debug\PATHEditor_MarkupCompile.lref
+c:\users\jokki\documents\visual studio 2015\Projects\PATHEditor\PATHEditor\obj\Debug\MainWindow.baml
+c:\users\jokki\documents\visual studio 2015\Projects\PATHEditor\PATHEditor\obj\Debug\PATHEditor.g.resources
+c:\users\jokki\documents\visual studio 2015\Projects\PATHEditor\PATHEditor\obj\Debug\PATHEditor.Properties.Resources.resources
+c:\users\jokki\documents\visual studio 2015\Projects\PATHEditor\PATHEditor\obj\Debug\PATHEditor.csproj.GenerateResource.Cache
+c:\users\jokki\documents\visual studio 2015\Projects\PATHEditor\PATHEditor\obj\Debug\PATHEditor.exe
+c:\users\jokki\documents\visual studio 2015\Projects\PATHEditor\PATHEditor\obj\Debug\PATHEditor.pdb

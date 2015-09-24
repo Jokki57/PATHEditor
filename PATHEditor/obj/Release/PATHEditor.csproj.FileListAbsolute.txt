@@ -1,0 +1,14 @@
+c:\Users\Jokki\Documents\Visual Studio 2015\Projects\PATHEditor\PATHEditor\bin\Release\PATHEditor.exe.config
+c:\Users\Jokki\Documents\Visual Studio 2015\Projects\PATHEditor\PATHEditor\obj\Release\MainWindow.g.cs
+c:\Users\Jokki\Documents\Visual Studio 2015\Projects\PATHEditor\PATHEditor\obj\Release\App.g.cs
+c:\Users\Jokki\Documents\Visual Studio 2015\Projects\PATHEditor\PATHEditor\obj\Release\PATHEditor_MarkupCompile.cache
+c:\Users\Jokki\Documents\Visual Studio 2015\Projects\PATHEditor\PATHEditor\obj\Release\PATHEditor_MarkupCompile.lref
+c:\Users\Jokki\Documents\Visual Studio 2015\Projects\PATHEditor\PATHEditor\obj\Release\MainWindow.baml
+c:\Users\Jokki\Documents\Visual Studio 2015\Projects\PATHEditor\PATHEditor\obj\Release\PATHEditor.g.resources
+c:\Users\Jokki\Documents\Visual Studio 2015\Projects\PATHEditor\PATHEditor\obj\Release\PATHEditor.Properties.Resources.resources
+c:\Users\Jokki\Documents\Visual Studio 2015\Projects\PATHEditor\PATHEditor\obj\Release\PATHEditor.csproj.GenerateResource.Cache
+c:\Users\Jokki\Documents\Visual Studio 2015\Projects\PATHEditor\PATHEditor\obj\Release\PATHEditor.pdb
+c:\Users\Jokki\Documents\Visual Studio 2015\Projects\PATHEditor\PATHEditor\bin\Release\PATHEditor.exe
+c:\Users\Jokki\Documents\Visual Studio 2015\Projects\PATHEditor\PATHEditor\bin\Release\PATHEditor.pdb
+c:\Users\Jokki\Documents\Visual Studio 2015\Projects\PATHEditor\PATHEditor\obj\Release\PATHEditor.exe
+c:\Users\Jokki\Documents\Visual Studio 2015\Projects\PATHEditor\PATHEditor\obj\Release\PATHEditor.csprojResolveAssemblyReference.cache
